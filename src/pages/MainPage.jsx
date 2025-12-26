@@ -1,7 +1,11 @@
+import { Button } from "react-bootstrap";
+
 function MainPage() {
     
     return (
-        <p>메인페이지</p>
+        <>
+            <p>메인페이지</p>
+        </>
     )
 }
 
