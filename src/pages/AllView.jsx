@@ -1,6 +1,15 @@
+import { Button, Nav, Offcanvas } from "react-bootstrap";
+import "./css/AllView.css"
+
 function AllView() {
     return(
-        <p>AllView</p>
+        <>
+            <div className="container">
+                <div className="box">
+                    {/* 내용 */}
+                </div>
+            </div>
+        </>
     )
 }
 
